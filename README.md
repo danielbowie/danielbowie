@@ -10,10 +10,10 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 
 - **Sex-Related Differences in Cerebrovascular Health and Cognition**  
   Statistical modeling of cerebrovascular health and cognition using piecewise regression analysis.  
-  📂 [GitHub Repo](https://github.com/danielbowie/neurovascular_aging_NBD) | 🔗 [OSF Link](https://osf.io/YOUR_OSF_LINK_HERE)
+  📂 [GitHub Repo](https://github.com/danielbowie/neurovascular_aging_NBD) | 🔗 [OSF Link](https://osf.io/q3sxj/)
 
 - **Amyloid-Negative / Tau-Positive Classification**  
-  Prevalence estimation using bootstrapping, Gaussian mixture models, and PET/CSF biomarker thresholds to explore A−/T+ status.  
+  Prevalence estimation using bootstrapping, Gaussian mixture models, and PET/CSF biomarker thresholds to explore A−/T+ status and its long-term implications.  
   *(Conducted using ADNI and PREVENT-AD data; due to data governance, code and results are not yet publicly shareable.)*
   
 - **Cerebrovascular Health and Functional Connectivity**  
