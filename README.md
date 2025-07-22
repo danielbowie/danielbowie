@@ -54,5 +54,5 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 
 I'm open to opportunities in **data science**, **research analytics**, and roles that emphasize **reproducible analysis and computational tools** in healthcare, neuroscience, or public health.
 
-📧 Email: daneil.christopher.bowie@gmail.com  
+📧 Email: daniel.christopher.bowie@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bowie-86478819b)
