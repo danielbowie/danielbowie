@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Bowie
+# Hi, I'm Daniel Bowie
 
 I'm a postdoctoral researcher at McGill University with a PhD in Cognitive Neuroscience from the University of Illinois Urbana-Champaign. My research focuses on neuroimaging and biomarker modeling in aging and Alzheimer's disease. I specialize in statistical analysis using R and Python, with a strong interest in data science, reproducibility, and impactful research translation.
 
@@ -6,7 +6,7 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 
 ---
 
-## 🔬 Projects & Research Highlights
+## Projects & Research Highlights
 
 - **Sex-Related Differences in Cerebrovascular Health and Cognition**  
   Statistical modeling of cerebrovascular health and cognition using piecewise regression analysis.  
@@ -26,7 +26,7 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Languages:** R, Python  
 **Stats/Modeling:** Mixed-effects models, SEM, GMM, bootstrapping  
@@ -35,7 +35,7 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 
 ---
 
-## 🧠 Data Source Acknowledgment
+## Data Source Acknowledgment
 
 *PREVENT-AD (Pre-symptomatic Evaluation of Experimental or Novel Treatments for Alzheimer Disease) is a longitudinal cohort designed to study preclinical biomarkers of Alzheimer’s disease. My work using this dataset complies with all data sharing and governance requirements.*
 
