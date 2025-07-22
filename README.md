@@ -13,7 +13,8 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
   📂 [GitHub Repo](https://github.com/danielbowie/neurovascular_aging_NBD) | 🔗 [OSF Link](https://osf.io/q3sxj/)
 
 - **Amyloid-Negative / Tau-Positive Classification**  
-  Prevalence estimation using bootstrapping, Gaussian mixture models, and PET/CSF biomarker thresholds to explore A−/T+ status and its long-term implications.  
+  Prevalence estimation using bootstrapping, Gaussian mixture models, and PET/CSF biomarker thresholds to explore A−/T+ status and its long-term implications.
+  **This project integrates R and Python using the `reticulate` package, with Python-based GMM modeling feeding into R-based statistical pipelines.**  
   *(Conducted using ADNI and PREVENT-AD data; due to data governance, code and results are not yet publicly shareable.)*
   
 - **Cerebrovascular Health and Functional Connectivity**  
@@ -30,7 +31,7 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 
 **Languages:** R, Python  
 **Stats/Modeling:** Mixed-effects models, SEM, GMM, bootstrapping  
-**Tools:** Git & GitHub, OSF, RMarkdown/Quarto, `renv`, `reticulate`  
+**Tools:** Git & GitHub, OSF, RMarkdown/Quarto, `renv`, **`reticulate` (R–Python integration)**  
 **Domains:** Neuroimaging (PET, structural and function MRI, EEG), cognition, aging, biomarker analysis
 
 ---
