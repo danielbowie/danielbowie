@@ -27,8 +27,8 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
 - **Cerebrovascular Health and Functional Connectivity**  
   Analysis of cerebrovascular health and functional network integrity during healthy aging. *(Finalizing work with PhD lab)*
   
-- **Olfactory Function & White Matter Microstructure**  
-  Investigating associations between odor identification and white matter integrity (DTI-derived fractional anisotropy) in tracts relevant to olfactory processing.  
+- **Olfactory Function & AD Neuropathology**  
+  Investigating associations between odor identification and in vivo AD neuropathology via PET. Also examining the influence of white matter microstructural health (DTI-derived fractional anisotropy) within tracts relevant to higher order olfactory processing.  
   *(Analysis based on PREVENT-AD data; results currently restricted by data access agreements.)*
 
 
