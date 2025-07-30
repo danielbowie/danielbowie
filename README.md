@@ -23,7 +23,8 @@ I'm currently transitioning from academia to industry, where I hope to apply my 
   Prevalence estimation using bootstrapping, Gaussian mixture models, and PET/CSF biomarker thresholds to explore A−/T+ status and its long-term implications.
   **This project integrates R and Python using the `reticulate` package, with Python-based GMM modeling feeding into R-based statistical pipelines.**  
   *(Conducted using ADNI and PREVENT-AD data; due to data governance, code and results are not yet publicly shareable.)*
-  
+  📂 [GitHub Repo](https://github.com/danielbowie/amy_neg_tau_pos)
+
 - **Cerebrovascular Health and Functional Connectivity**  
   Analysis of cerebrovascular health and functional network integrity during healthy aging. *(Finalizing work with PhD lab)*
   
