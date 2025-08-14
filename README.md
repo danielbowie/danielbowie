@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/code-Python-yellow)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-# Daniel Bowie, PhD
+# Daniel C. Bowie, PhD
 
 I'm a postdoctoral researcher at McGill University with a PhD in Cognitive Neuroscience from the University of Illinois Urbana-Champaign. My research focuses on neuroimaging and biomarker modeling in aging and Alzheimer's disease. I specialize in statistical analysis using R and Python, with a strong interest in data science, reproducibility, and impactful research translation.
 
