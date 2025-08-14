@@ -2,21 +2,21 @@
 ![Python](https://img.shields.io/badge/code-Python-yellow)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
-# Hi, I'm Daniel Bowie
+# Daniel Bowie, PhD
 
 I'm a postdoctoral researcher at McGill University with a PhD in Cognitive Neuroscience from the University of Illinois Urbana-Champaign. My research focuses on neuroimaging and biomarker modeling in aging and Alzheimer's disease. I specialize in statistical analysis using R and Python, with a strong interest in data science, reproducibility, and impactful research translation.
 
 I'm currently transitioning from academia to industry, where I hope to apply my analytical, coding, and scientific communication skills to solve real-world problems.
 
 > 💡 **Portfolio Overview**  
-> This GitHub portfolio features R and Python projects focused on biomarker modeling, neuroimaging, and statistical methods applied to aging and Alzheimer's disease. Projects include work using ADNI and PREVENT-AD datasets, reproducible pipelines, and hybrid R–Python modeling via `reticulate`.
+> This GitHub portfolio features R and Python projects focused on biomarker modeling, neuroimaging, and advanced statistical methods applied to aging and Alzheimer's disease. Projects include work using ADNI and PREVENT-AD datasets, reproducible pipelines, and hybrid R–Python modeling via `reticulate`.
 
 ---
 
 ## Projects & Research Highlights
 
 - **Sex-Related Differences in Cerebrovascular Health and Cognition**  
-  Statistical modeling of cerebrovascular health and cognition using piecewise regression analysis.  
+  Statistical modeling of cerebrovascular health and cognition using piecewise regression and structural equation modeling.  
   📂 [GitHub Repo](https://github.com/danielbowie/neurovascular_aging_NBD) | 🔗 [OSF Link](https://osf.io/q3sxj/)
 
 - **Amyloid-Negative / Tau-Positive Classification**  
@@ -32,7 +32,7 @@ Conducted using ADNI and PREVENT-AD data. While full datasets cannot be shared, 
   
 - **Olfactory Function & AD Neuropathology**  
   Investigating associations between odor identification and in vivo AD neuropathology via PET. Also examining the influence of white matter microstructural health (DTI-derived fractional anisotropy) within tracts relevant to higher order olfactory processing.  
-  *(Analysis based on PREVENT-AD data; results currently restricted by data access agreements.)*
+  *(Analysis based on PREVENT-AD data.)*
 
 
 ---
@@ -55,7 +55,7 @@ Conducted using ADNI and PREVENT-AD data. While full datasets cannot be shared, 
 
 ## 📫 Let's Connect
 
-I'm open to opportunities in **data science**, **research analytics**, and roles that emphasize **reproducible analysis and computational tools** in healthcare, neuroscience, or public health.
+I'm open to **research scientist** and **data scientist** roles, including roles that emphasize **reproducible analysis and computational tools** in healthcare, neuroscience, or public health.
 
 📧 Email: daniel.christopher.bowie@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bowie-86478819b)
