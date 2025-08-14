@@ -8,9 +8,6 @@ I'm a postdoctoral researcher at McGill University with a PhD in Cognitive Neuro
 
 I'm currently transitioning from academia to industry, where I hope to apply my analytical, coding, and scientific communication skills to solve real-world problems.
 
-> 💡 **Portfolio Overview**  
-> This GitHub portfolio features R and Python projects focused on biomarker modeling, neuroimaging, and advanced statistical methods applied to aging and Alzheimer's disease. Projects include work using ADNI and PREVENT-AD datasets, reproducible pipelines, and hybrid R–Python modeling via `reticulate`.
-
 ---
 
 ## Projects & Research Highlights
