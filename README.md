@@ -14,7 +14,7 @@ I'm currently looking for research scientist or data scientist roles, where I ho
 
 - **Sex-Related Differences in Cerebrovascular Health and Cognition**  
   Statistical modeling of cerebrovascular health and cognition using piecewise regression and structural equation modeling.  
-   [GitHub Repo](https://github.com/danielbowie/neurovascular_aging_NBD) | 🔗 [OSF Link](https://osf.io/q3sxj/)
+   [GitHub Repo](https://github.com/danielbowie/neurovascular_aging_NBD) |  [OSF Link](https://osf.io/q3sxj/)
 
 - **Amyloid-Negative / Tau-Positive Classification**  
 Estimation of A−/T+ prevalence using bootstrapping, various PET classification methods (GMM, ROC, 2SD), and multimodal biomarker thresholds (PET, CSF, plasma).  
