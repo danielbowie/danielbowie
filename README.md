@@ -6,7 +6,7 @@
 
 I'm a postdoctoral fellow at McGill University with a PhD in Cognitive Neuroscience from the University of Illinois Urbana-Champaign. My research focuses on neuroimaging and biomarker modeling in aging and Alzheimer's disease. I specialize in statistical analysis using R and Python, with a strong interest in data science, reproducibility, and impactful research translation.
 
-I'm currently transitioning from academia to industry, where I hope to apply my analytical, coding, and scientific communication skills to solve real-world problems.
+I'm currently looking for research scientist or data scientist roles, where I hope to apply my analytical, coding, and scientific communication skills to solve real-world problems.
 
 ---
 
